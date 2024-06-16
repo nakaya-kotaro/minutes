@@ -1,2 +1,2 @@
 # deliverables
-This is the directory where the deliverables are stored
+This is the directory that stores  the deliverables
