@@ -6,7 +6,6 @@ Gitを利用した開発ができる。
 
 ### Gitとは？
 Gitはバージョン管理システム(VCS:Version Control System)の1つです。
-履歴を辿り、要領を抑え、改ざんに強いのが特徴です。
 
 ### Gitの基本用語
 |用語|意味|
@@ -33,10 +32,10 @@ Gitはバージョン管理システム(VCS:Version Control System)の1つです
 |リベース<br>(rebase)|異なるブランチの変更を反映させること。変更履歴が片方に集約される。|
 |コンフリクト<br>(conflict)|マージ対象の２ファイルで同じ箇所が変更されており、自動でマージができないこと。|
 
-参考URL
+参考URL<br>
 [Git 基本の用語集](https://qiita.com/toshi_um/items/72c9d929a600323b2e77)
-[完全初心者向けGit用語集](https://qiita.com/shinshingodmt/items/637cf9e5c6660509c460)
-[【Git・GitHub】用語のまとめ](https://zenn.dev/miya_akari/articles/13c718afa783fe)
+[完全初心者向けGit用語集](https://qiita.com/shinshingodmt/items/637cf9e5c6660509c460)   
+[【Git・GitHub】用語のまとめ](https://zenn.dev/miya_akari/articles/13c718afa783fe)   
 
 ### ローカルの基本操作
  #### 初期化
